@@ -193,23 +193,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Windows\\.nuget\\packages\\": {},
+    "C:\\Users\\FIC.INFO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows\\Desktop\\Animalindo-stevamlima\\Pet\\Repositorio\\Repositorio.csproj",
+      "projectUniqueName": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Repositorio\\Repositorio.csproj",
       "projectName": "Repositorio",
-      "projectPath": "C:\\Users\\Windows\\Desktop\\Animalindo-stevamlima\\Pet\\Repositorio\\Repositorio.csproj",
-      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows\\Desktop\\Animalindo-stevamlima\\Pet\\Repositorio\\obj\\",
+      "projectPath": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Repositorio\\Repositorio.csproj",
+      "packagesPath": "C:\\Users\\FIC.INFO\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FIC.INFO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -220,8 +220,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Windows\\Desktop\\Animalindo-stevamlima\\Pet\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Windows\\Desktop\\Animalindo-stevamlima\\Pet\\Dominio\\Dominio.csproj"
+            "c:\\Users\\FIC.INFO\\petshop\\Pet\\Dominio\\Dominio.csproj": {
+              "projectPath": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Dominio\\Dominio.csproj"
             }
           }
         }
