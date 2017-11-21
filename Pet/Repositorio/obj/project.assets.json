@@ -193,23 +193,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\47518534819\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\FIC.INFO\\.nuget\\packages\\": {},
+>>>>>>> 3346e7e2cba599a6dd2e69cf4b01af5cc3fda8d2
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\47518534819\\Desktop\\Animalindo\\petshop\\Pet\\Repositorio\\Repositorio.csproj",
       "projectName": "Repositorio",
       "projectPath": "C:\\Users\\47518534819\\Desktop\\Animalindo\\petshop\\Pet\\Repositorio\\Repositorio.csproj",
       "packagesPath": "C:\\Users\\47518534819\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\47518534819\\Desktop\\Animalindo\\petshop\\Pet\\Repositorio\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Repositorio\\Repositorio.csproj",
+      "projectName": "Repositorio",
+      "projectPath": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Repositorio\\Repositorio.csproj",
+      "packagesPath": "C:\\Users\\FIC.INFO\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Repositorio\\obj\\",
+>>>>>>> 3346e7e2cba599a6dd2e69cf4b01af5cc3fda8d2
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\47518534819\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\FIC.INFO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 3346e7e2cba599a6dd2e69cf4b01af5cc3fda8d2
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -220,8 +236,13 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\47518534819\\Desktop\\Animalindo\\petshop\\Pet\\Dominio\\Dominio.csproj": {
               "projectPath": "C:\\Users\\47518534819\\Desktop\\Animalindo\\petshop\\Pet\\Dominio\\Dominio.csproj"
+=======
+            "c:\\Users\\FIC.INFO\\petshop\\Pet\\Dominio\\Dominio.csproj": {
+              "projectPath": "c:\\Users\\FIC.INFO\\petshop\\Pet\\Dominio\\Dominio.csproj"
+>>>>>>> 3346e7e2cba599a6dd2e69cf4b01af5cc3fda8d2
             }
           }
         }
