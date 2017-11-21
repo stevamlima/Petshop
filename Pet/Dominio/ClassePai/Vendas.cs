@@ -1,6 +1,6 @@
 using System;
 
-namespace Pet.Dominio.ClassePai
+namespace Dominio
 {
     public class Vendas
     {

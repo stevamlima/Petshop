@@ -1,8 +1,9 @@
 using System;
+using Dominio;
 
-namespace Pet.Dominio.ClassePai.ClassesFilhas
+namespace Dominio
 {
-    public class Produtos : Vendas
+    public class Produtos : Dominio.Vendas
     {
         public int IdProd {get; set; }
 

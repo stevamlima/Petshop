@@ -59,7 +59,7 @@ namespace Repositorio
                     string[] dados = linha.Split(';');
                     if(dados[0] == ID)
                     {
-                        resultado = "Resultado da pesquisa: "+linha;
+                        resultado = linha;
                         break;
                     }
                 }
@@ -76,7 +76,7 @@ namespace Repositorio
             return resultado;
         }
         //===============================================================================================================================================
-
+        
         public string VerificarRepID(string ID) //método para pesquisar o EVENTO por TÍTULO
         {
             string resultado = "";
@@ -108,5 +108,6 @@ namespace Repositorio
             return resultado;
         }
         //===============================================================================================================================================
+    
     }
 }

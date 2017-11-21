@@ -1,5 +1,6 @@
 using System;
-using Pet.Dominio.ClassePai.ClassesFilhas;
+using Dominio;
+//using Pet.Dominio.ClassePai.ClassesFilhas;
 
 namespace Repositorio
 {

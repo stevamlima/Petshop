@@ -17,17 +17,12 @@ namespace Dominio
         {
 
         }
-        public Clientes(string Nome, string Idade, string Genero, string Cpf, string Logradouro, string Num, string Bairro, string Cidade, string Estado, string Cep, string ID)
+        public Clientes(string Nome, string Idade, string Genero, string Cpf, Endereco End, string ID)
         {
             this.Nome = Nome;
             this.Idade = Idade;
             this.Genero = Genero;
-            this.End.Logradouro = Logradouro;
-            this.End.Numero = Num;
-            this.End.Bairro = Bairro;
-            this.End.Cidade = Cidade;
-            this.End.Estado = Estado;
-            this.End.Cep = Cep;
+            this.End = End;
             this.Cpf = Cpf;
             this.ID = ID;
         }
