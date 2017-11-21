@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\ProjetoConsole.deps.json
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\ProjetoConsole.runtimeconfig.json
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\ProjetoConsole.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\ProjetoConsole.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\ProjetoConsole.pdb
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\Dominio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\Repositorio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\Repositorio.pdb
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\bin\Debug\netcoreapp2.0\Dominio.pdb
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\ProjetoConsole\obj\Debug\netcoreapp2.0\ProjetoConsole.pdb

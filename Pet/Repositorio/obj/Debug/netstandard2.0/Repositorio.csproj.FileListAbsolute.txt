@@ -1,0 +1,10 @@
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb

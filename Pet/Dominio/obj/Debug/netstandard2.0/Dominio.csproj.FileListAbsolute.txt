@@ -1,0 +1,8 @@
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
