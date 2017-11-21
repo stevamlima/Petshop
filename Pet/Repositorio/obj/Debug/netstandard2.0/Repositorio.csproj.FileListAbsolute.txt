@@ -8,3 +8,13 @@ C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstan
 C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
 C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
 C:\Users\Windows\Desktop\Animalindo-stevamlima\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\Users\47518534819\Desktop\Animalindo\petshop\Pet\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb

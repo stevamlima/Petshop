@@ -10,7 +10,9 @@ namespace ProjetoConsole
     {
         static void Main(string[] args)
         {
+            AnimaisRep PesAnimal = new AnimaisRep(); //Instancia a classe ANIMAISREP
             string escolha = "";
+            string opcao = "";
             do
             {
             Console.WriteLine("\nBem-vindo ao nosso sistema de cadastro");
@@ -27,7 +29,26 @@ namespace ProjetoConsole
             {
                 case "1":
                 Console.Clear();
-                CadastraClientes();
+                Console.WriteLine("Cadastro do animal");
+                Console.WriteLine("\n1- Cadastrar animal");
+                Console.WriteLine("2- Pesquisar animal");
+                Console.WriteLine("9- Voltar");
+                Console.WriteLine("\nEscolha uma das opções acima: ");
+                opcao = Console.ReadLine();
+
+                switch(opcao)
+                {
+                    case "1":
+                    CadastraClientes();
+                    break;
+                    case "2":
+                    Console.Write("Pesquisar ID do animal:  ");
+                    string pesquisa = Console.ReadLine();
+                    Console.WriteLine(PesAnimal.Consultar(pesquisa));
+                    break;
+                    case "9":
+                    break;
+                }
                 break;
 
                 case "2":
@@ -42,6 +63,8 @@ namespace ProjetoConsole
         static void CadastraAnimais()
         {
             //============================================LÓGICA DO CADASTRO DE ANIMAIS==============================================================
+            AnimaisRep PesAnimal = new AnimaisRep(); //Instancia a classe ANIMAISREP
+
             Console.WriteLine("Cadastro de animais");
             Console.Write("\nDigite qual animal você deseja cadastrar: "); string tipo = Console.ReadLine();
             Console.Write("Digite a raça do seu animal: "); string raca = Console.ReadLine();
@@ -50,8 +73,6 @@ namespace ProjetoConsole
             Console.Write("Digite a data de nascimento do seu animal: "); DateTime nascimento = Convert.ToDateTime(Console.ReadLine());
             Console.Write("Digite o porte do seu animal: "); string porte = Console.ReadLine();
 
-            AnimaisRep PesAnimal = new AnimaisRep(); //Instancia a classe ANIMAISREP
-            
             //============LÓGICA QUE VERIFICA A REPETIÇÃO DO ID============
             string id = string.Empty;
             Random num = new Random();
@@ -66,10 +87,6 @@ namespace ProjetoConsole
 
             if(cadastrosucesso) Console.WriteLine("\nAnimal cadastrado com sucesso. Seu ID para consultas futuras é: " + id);
             else Console.WriteLine("\nOcorreu um erro no processo de cadastramento, contacte o ADM.");
-
-            Console.Write("Pesquisar ID do animal:  ");
-            string pesquisa = Console.ReadLine();
-            Console.WriteLine(PesAnimal.Consultar(pesquisa));
             //=======================================================================================================================================
 
         }
@@ -103,10 +120,12 @@ namespace ProjetoConsole
             }while(CadClientes.VerificarRepID(id) == id);
             //=============================================================
 
+            //======================================LÓGICA QUE CADASTRA O CLIENTE APÓS A VERIFICAÇÃO DO ID===========================================
+
             Clientes clientes = new Clientes(nome, idade, genero, cpf, logradouro, num, bairro, cidade, estado, cep, id);  //Instancia a classe ANIMAIS pedindo os parâmetros estabelecidos
             bool cadastrosucesso = CadClientes.Cadastrar(clientes);
 
-            if(cadastrosucesso) Console.WriteLine("\nAnimal cadastrado com sucesso. Seu ID para consultas futuras é: " + id);
+            if(cadastrosucesso) Console.WriteLine("\nCliente cadastrado com sucesso. Seu ID para consultas futuras é: " + id);
             else Console.WriteLine("\nOcorreu um erro no processo de cadastramento, contacte o ADM.");
 
             Console.Write("Pesquisar ID do animal:  ");

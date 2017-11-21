@@ -59,7 +59,7 @@ namespace Repositorio
                     string[] dados = linha.Split(';');
                     if(dados[0] == ID)
                     {
-                        resultado = linha;
+                        resultado = "Resultado da pesquisa: "+linha;
                         break;
                     }
                 }
